@@ -1,7 +1,7 @@
 # How to add a mod
 
 To add your mod to a **[Category]**, you need to add it to the list in the **zServo_Lexmechanicus_mod_list** file:
-<code>
+```lua
         ["YourModFolderName"] = {
                 category = "ChosenCategory",
                 localized_name = { -- Date and YourNickname(if you want)
@@ -10,4 +10,5 @@ To add your mod to a **[Category]**, you need to add it to the list in the **zSe
                        -- ["zh-tw"] = "",
                        -- ["zh-cn"] = "",
                 }
-        },</code>
+        },
+```
