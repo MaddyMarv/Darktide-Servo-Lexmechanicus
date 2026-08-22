@@ -251,6 +251,13 @@ return {
 			en = "Vox Manifold",
 		}
 	},
+	
+		["FasterPortraits"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "FasterPortraits",
+		}
+	},
 
 	["Alfs_DMF_Extensions"] = {
 		category = "Core",
@@ -1571,13 +1578,6 @@ return {
 		category = "Menu",
 		localized_name = { -- 21.08.2026
 			en = "LoadScreenDecorationRemover",
-		}
-	},
-
-	["FasterPortraits"] = {
-		category = "Menu",
-		localized_name = { -- 21.08.2026
-			en = "FasterPortraits",
 		}
 	},
 
