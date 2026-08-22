@@ -9,36 +9,42 @@ return {
 			en = "Clarity of Sound",
 		}
 	},
+	
 	["Mourningstar_dialogue_improved"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
 			en = "Mourningstar_dialogue_improved",
 		}
 	},
+	
 	["NoPingSounds"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
 			en = "NoPingSounds",
 		}
 	},
+	
 	["QuietPsykhanium"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
 			en = "QuietPsykhanium",
 		}
 	},
+	
 	["Speak Up"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
 			en = "Speak Up",
 		}
 	},
+	
 	["VoxMask"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
 			en = "VoxMask",
 		}
 	},
+	
 	["ZipIt2"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
