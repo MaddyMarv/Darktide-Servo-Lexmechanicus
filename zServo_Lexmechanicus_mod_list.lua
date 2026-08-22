@@ -1560,13 +1560,6 @@ return {
 		}
 	},
 
-	["SortModMenu"] = {
-		category = "Menu",
-		localized_name = { -- 21.08.2026
-			en = "SortModMenu",
-		}
-	},
-
 	["LoadingBar"] = {
 		category = "Menu",
 		localized_name = { -- 21.08.2026
