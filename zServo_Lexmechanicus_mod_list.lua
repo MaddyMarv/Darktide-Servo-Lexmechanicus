@@ -13,7 +13,7 @@ return {
 	["Mourningstar_dialogue_improved"] = {
 		category = "Audio",
 		localized_name = { -- 21.08.2026
-			en = "Mourningstar_dialogue_improved",
+			en = "Mourningstar Dialogue Improved",
 		}
 	},
 	
@@ -82,7 +82,7 @@ return {
 	["helbore_passive_charge"] = {
 		category = "Controls",
 		localized_name = { -- 21.08.2026
-			en = "helbore_passive_charge",
+			en = "Helbore Passive Charge",
 		}
 	},
 	
@@ -161,7 +161,7 @@ return {
 	["menu_hotkeys"] = {
 		category = "Controls",
 		localized_name = { -- 21.08.2026
-			en = "menu_hotkeys",
+			en = "Menu Hotkeys",
 		}
 	},
 
@@ -262,7 +262,7 @@ return {
 	["Alfs_DMF_Extensions"] = {
 		category = "Core",
 		localized_name = { -- 21.08.2026
-			en = "Alfs_DMF_Extensions",
+			en = "Alf's DMF Extensions",
 		}
 	},
 	
@@ -311,14 +311,14 @@ return {
 	["background_fps_limiter"] = {
 		category = "Core",
 		localized_name = { -- 21.08.2026
-			en = "background_fps_limiter",
+			en = "Background Fps Limiter",
 		}
 	},
 	
 	["disabled_mods_notifier"] = {
 		category = "Core",
 		localized_name = { -- 21.08.2026
-			en = "disabled_mods_notifier",
+			en = "Disabled Mods Notifier",
 		}
 	},
 
@@ -352,7 +352,7 @@ return {
 	["commodores_vestures_improved"] = {
 		category = "Cosmetics",
 		localized_name = { -- 21.08.2026
-			en = "commodores_vestures_improved",
+			en = "Commodores Vestures Improved",
 		}
 	},
 
@@ -457,7 +457,7 @@ return {
 	["immersive_evasion"] = {
 		category = "Gameplay",
 		localized_name = { -- 21.08.2026
-			en = "immersive_evasion",
+			en = "Immersive Evasion",
 		}
 	},
 
@@ -473,7 +473,7 @@ return {
 	["state_your_name"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "state_your_name",
+			en = "State Your Name",
 		}
 	},
 	
@@ -543,7 +543,7 @@ return {
 	["loot_dopamine"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "loot_dopamine",
+			en = "Loot Dopamine",
 		}
 	},
 
@@ -662,62 +662,62 @@ return {
 	["ability_timer"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "ability_timer",
+			en = "Ability Timer",
 		}
 	},
 	
 	["better_buff_management"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "better_buff_management",
+			en = "Better Buff Management",
 		}
 	},
 	
 	["bot_hud_transparency"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "bot_hud_transparency",
+			en = "Bot Hud Transparency",
 		}
 	},
 	
 	["crosshair_hud"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "crosshair_hud",
+			en = "Crosshair Hud",
 		}
 	},
 	
 	["crosshair_remap"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "crosshair_remap",
+			en = "Crosshair Remap",
 		}
 	},
 	
 	["objective_tracker"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "objective_tracker",
+			en = "Objective Tracker",
 		}
 	},
 	
 	["shorten_usernames"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "shorten_usernames",
+			en = "Shorten Usernames",
 		}
 	},
 	["vt2_scoreboard"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "vt2_scoreboard",
+			en = "Vt2 Scoreboard",
 		}
 	},
 	
 	["wound_customizer"] = {
 		category = "HUD",
 		localized_name = { -- 21.08.2026
-			en = "wound_customizer",
+			en = "Wound Customizer",
 		}
 	},
 
@@ -955,7 +955,7 @@ return {
 	["enemies_improved"] = {
 		category = "Indicators",
 		localized_name = { -- 21.08.2026
-			en = "enemies_improved",
+			en = "Enemies Improved",
 		}
 	},
 	["debuff_indicator"] = {
@@ -989,7 +989,7 @@ return {
 	["ping_duration_changer"] = {
 		category = "Indicators",
 		localized_name = { -- 21.08.2026
-			en = "ping_duration_changer",
+			en = "Ping Duration Changer",
 		}
 	},
 
@@ -1003,14 +1003,14 @@ return {
 	["better_downed_indicators"] = {
 		category = "Indicators",
 		localized_name = { -- 21.08.2026
-			en = "better_downed_indicators",
+			en = "Better Downed Indicators",
 		}
 	},
 
 	["aggro_indicator"] = {
 		category = "Indicators",
 		localized_name = { -- 21.08.2026
-			en = "aggro_indicator",
+			en = "Aggro Indicator",
 		}
 	},
 
@@ -1150,7 +1150,7 @@ return {
 	["wkc"] = {
 		category = "Inventory",
 		localized_name = { -- 21.08.2026
-			en = "wkc",
+			en = "WKC",
 		}
 	},
 
@@ -1542,14 +1542,14 @@ return {
 	["improved_loading_screens"] = {
 		category = "Menu",
 		localized_name = { -- 21.08.2026
-			en = "improved_loading_screens",
+			en = "Improved Loading Screens",
 		}
 	},
 
 	["hub_shortcuts"] = {
 		category = "Menu",
 		localized_name = { -- 21.08.2026
-			en = "hub_shortcuts",
+			en = "Hub Shortcuts",
 		}
 	},
 
@@ -1577,7 +1577,7 @@ return {
 	["LoadScreenDecorationRemover"] = {
 		category = "Menu",
 		localized_name = { -- 21.08.2026
-			en = "LoadScreenDecorationRemover",
+			en = "Load Screen Decoration Remover",
 		}
 	},
 
@@ -1721,7 +1721,7 @@ return {
 	["havoc_headcount"] = {
 		category = "Missions",
 		localized_name = { -- 21.08.2026
-			en = "havoc_headcount",
+			en = "Havoc Headcount",
 		}
 	},
 
@@ -1735,14 +1735,14 @@ return {
 	["LetMePlayHavoc"] = {
 		category = "Missions",
 		localized_name = { -- 21.08.2026
-			en = "LetMePlayHavoc",
+			en = "Let Me Play Havoc",
 		}
 	},
 
 	["HavocQuickplay"] = {
 		category = "Missions",
 		localized_name = { -- 21.08.2026
-			en = "HavocQuickplay",
+			en = "Havoc Quickplay",
 		}
 	},
 
@@ -1801,7 +1801,7 @@ return {
 	["quick_level_mastery"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "quick_level_mastery",
+			en = "Quick Level Mastery",
 		}
 	},
 	
@@ -1833,28 +1833,28 @@ return {
 	["strip_chat_colors"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "strip_chat_colors",
+			en = "Strip Chat Colors",
 		}
 	},
 
 	["afk"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "afk",
+			en = "AFK",
 		}
 	},
 
 	["SoloMourningstar"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "SoloMourningstar",
+			en = "Solo Mourningstar",
 		}
 	},
 
 	["SkipRewards"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "SkipRewards",
+			en = "Skip Rewards",
 		}
 	},
 
@@ -1868,7 +1868,7 @@ return {
 	["QuickLeave"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "QuickLeave",
+			en = "Quick Leave",
 		}
 	},
 
@@ -1884,7 +1884,7 @@ return {
 	["ritual_timer"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
-			en = "ritual_timer",
+			en = "Ritual Timer",
 		}
 	},
 
@@ -1971,42 +1971,42 @@ return {
 	["DatatideTestSpawner"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "DatatideTestSpawner",
+			en = "Datatide Test Spawner",
 		}
 	},
 
 	["CustomCharacterBots"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "CustomCharacterBots",
+			en = "Custom Character Bots",
 		}
 	},
 
 	["BetterBots"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "BetterBots",
+			en = "Better Bots",
 		}
 	},
 
 	["ArtificialLatency"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "ArtificialLatency",
+			en = "Artificial Latency",
 		}
 	},
 
 	["bot_spawner"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "bot_spawner",
+			en = "Bot Spawner",
 		}
 	},
 
 	["controlled_chaos"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "controlled_chaos",
+			en = "Controlled Chaos",
 		}
 	},
 
@@ -2057,7 +2057,7 @@ return {
 	["testing_utilities"] = {
 		category = "Testing",
 		localized_name = { -- 21.08.2026
-			en = "testing_utilities",
+			en = "Testing Utilities",
 		}
 	},
 
@@ -2085,49 +2085,49 @@ return {
 	["vfx_swapper"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "vfx_swapper",
+			en = "Vfx Swapper",
 		}
 	},
 
 	["transonic_stance_colors"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "transonic_stance_colors",
+			en = "Transonic Stance Colors",
 		}
 	},
 
 	["i_wanna_see"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "i_wanna_see",
+			en = "I Wanna See",
 		}
 	},
 
 	["emperors_lantern"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "emperors_lantern",
+			en = "Emperors Lantern",
 		}
 	},
 
 	["PauseVision"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "PauseVision",
+			en = "Pause Vision",
 		}
 	},
 
 	["LookAround"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "LookAround",
+			en = "Look Around",
 		}
 	},
 
 	["LessDoT"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "LessDoT",
+			en = "Less DoT",
 		}
 	},
 
@@ -2141,14 +2141,14 @@ return {
 	["HolyLight"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "HolyLight",
+			en = "Holy Light",
 		}
 	},
 
 	["ForTheBloodGod"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "ForTheBloodGod",
+			en = "For The Blood God",
 		}
 	},
 
@@ -2162,7 +2162,7 @@ return {
 	["CustomFlames"] = {
 		category = "Visuals",
 		localized_name = { -- 21.08.2026
-			en = "CustomFlames",
+			en = "Custom Flames",
 		}
 	},
 
