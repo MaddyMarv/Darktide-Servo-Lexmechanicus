@@ -373,6 +373,13 @@ return {
 			ru = "Помощник декодирования для дерева",
 		}
 	},
+	
+	["MatchingMinigameSolver"] = {
+		category = "Decoding",
+		localized_name = { -- 21.08.2026
+			en = "MatchingMinigameSolver",
+		}
+	},
 
 -- FIXES -- ИСПРАВЛЕНИЯ
 	["GrenadeRegenTimerFix"] = {
@@ -1797,19 +1804,7 @@ return {
 			en = "quick_level_mastery",
 		}
 	},
-	["Decode_Helper"] = {
-		category = "QoL",
-		localized_name = { -- 06.01.2026
-			en = "Decode Helper",
-			ru = "Помощник декодирования",
-		}
-	},
-	["MatchingMinigameSolver"] = {
-		category = "QoL",
-		localized_name = { -- 21.08.2026
-			en = "MatchingMinigameSolver",
-		}
-	},
+	
 	["Muzzle"] = {
 		category = "QoL",
 		localized_name = { -- 21.08.2026
