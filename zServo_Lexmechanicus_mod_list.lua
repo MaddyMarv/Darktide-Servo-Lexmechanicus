@@ -3,6 +3,49 @@ local mod = get_mod("zServo_Lexmechanicus")
 
 return {
 -- AUDIO -- АУДИО
+	["Clarity of Sound"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "Clarity of Sound",
+		}
+	},
+	["Mourningstar_dialogue_improved"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "Mourningstar_dialogue_improved",
+		}
+	},
+	["NoPingSounds"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "NoPingSounds",
+		}
+	},
+	["QuietPsykhanium"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "QuietPsykhanium",
+		}
+	},
+	["Speak Up"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "Speak Up",
+		}
+	},
+	["VoxMask"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "VoxMask",
+		}
+	},
+	["ZipIt2"] = {
+		category = "Audio",
+		localized_name = { -- 21.08.2026
+			en = "ZipIt2",
+		}
+	},
+
 	["CacklingTrapper"] = {
 		category = "Audio",
 		localized_name = { -- 06.01.2026
@@ -11,11 +54,99 @@ return {
 		}
 	},
 
-
 -- CHEAT -- ЧИТ
 
-
 -- CONTROLS -- УПРАВЛЕНИЕ
+	["QuickDeploy"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "QuickDeploy",
+		}
+	},
+	["AfterGrenade"] = {
+		category = "Controls",
+		localized_name = { -- 06.01.2026
+			en = "After Blitz",
+			ru = "После блица",
+			["zh-cn"] = "闪击结束动作",
+		}
+	},
+	["helbore_passive_charge"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "helbore_passive_charge",
+		}
+	},
+	["AutoBlitz"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "AutoBlitz",
+		}
+	},
+	["Skitarius"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "Skitarius",
+		}
+	},
+	["StickyFingers"] = {
+		category = "Controls",
+		localized_name = { -- 06.01.2026
+			en = "Sticky Fingers",
+			ru = "Ловкие пальцы",
+			["zh-cn"] = "长按自动交互",
+		}
+	},
+
+	["AutoLoot"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "AutoLoot",
+		}
+	},
+	["AutoMedicaeServoSkull"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "AutoMedicaeServoSkull",
+		}
+	},
+	["AutoPing"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "AutoPing",
+		}
+	},
+	["BetterMovement"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "BetterMovement",
+		}
+	},
+	["BrokerAutoStim"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "BrokerAutoStim",
+		}
+	},
+	["ToggleAltFire"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "ToggleAltFire",
+		}
+	},
+	["ToggleInteract"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "ToggleInteract",
+		}
+	},
+	["menu_hotkeys"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "menu_hotkeys",
+		}
+	},
+
 	["FullAuto"] = {
 		category = "Controls",
 		localized_name = { -- 06.01.2026
@@ -88,8 +219,69 @@ return {
 		}
 	},
 
-
 -- CORE -- ОСНОВНЫЕ
+	["Vox Manifold"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "Vox Manifold",
+		}
+	},
+
+	["Alfs_DMF_Extensions"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "Alfs_DMF_Extensions",
+		}
+	},
+	["AutoBackup"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "AutoBackup",
+		}
+	},
+	["FpsDoctor"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "FpsDoctor",
+		}
+	},
+	["LuaExec"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "LuaExec",
+		}
+	},
+	["ModPerformanceMonitor"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "ModPerformanceMonitor",
+		}
+	},
+	["SimpleAssets"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "SimpleAssets",
+		}
+	},
+	["TaskbarFlasher"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "TaskbarFlasher",
+		}
+	},
+	["background_fps_limiter"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "background_fps_limiter",
+		}
+	},
+	["disabled_mods_notifier"] = {
+		category = "Core",
+		localized_name = { -- 21.08.2026
+			en = "disabled_mods_notifier",
+		}
+	},
+
 	["master_item_community_patch"] = {
 		category = "Core",
 		localized_name = { -- 06.01.2026
@@ -115,18 +307,16 @@ return {
 		}
 	},
 
-
 -- COSMETICS -- ВНЕШКА
-
-
--- DECODING -- ДЕКОДЕР
-	["Decode_Helper"] = {
-		category = "Decoding",
-		localized_name = { -- 06.01.2026
-			en = "Decode Helper",
-			ru = "Помощник декодирования",
+	["commodores_vestures_improved"] = {
+		category = "Cosmetics",
+		localized_name = { -- 21.08.2026
+			en = "commodores_vestures_improved",
 		}
 	},
+
+-- DECODING -- ДЕКОДЕР
+
 	["DecodeMinigameSolver"] = {
 		category = "Decoding",
 		localized_name = { -- 06.01.2026
@@ -142,8 +332,34 @@ return {
 		}
 	},
 
-
 -- FIXES -- ИСПРАВЛЕНИЯ
+	["GrenadeRegenTimerFix"] = {
+		category = "Fixes",
+		localized_name = { -- 21.08.2026
+			en = "GrenadeRegenTimerFix",
+		}
+	},
+
+	["ChatFix"] = {
+		category = "Fixes",
+		localized_name = { -- 21.08.2026
+			en = "ChatFix",
+		}
+	},
+
+	["LoadoutSelectionFix"] = {
+		category = "Fixes",
+		localized_name = { -- 21.08.2026
+			en = "LoadoutSelectionFix",
+		}
+	},
+	["SlotFix"] = {
+		category = "Fixes",
+		localized_name = { -- 21.08.2026
+			en = "SlotFix",
+		}
+	},
+
 	["CorrectMissionVotingInfo"] = {
 		category = "Fixes",
 		localized_name = { -- 06.01.2026
@@ -183,16 +399,14 @@ return {
 		}
 	},
 
-
 -- GAMEPLAY -- ГЕЙМПЛЕЙ
-	["AfterGrenade"] = {
+	["immersive_evasion"] = {
 		category = "Gameplay",
-		localized_name = { -- 06.01.2026
-			en = "After Blitz",
-			ru = "После блица",
-			["zh-cn"] = "闪击结束动作",
+		localized_name = { -- 21.08.2026
+			en = "immersive_evasion",
 		}
 	},
+
 	["LessAnnoyingPing"] = {
 		category = "Gameplay",
 		localized_name = { -- 06.01.2026
@@ -200,17 +414,233 @@ return {
 			ru = "Менее раздражающая пометка",
 		}
 	},
-	["StickyFingers"] = {
-		category = "Gameplay",
-		localized_name = { -- 06.01.2026
-			en = "Sticky Fingers",
-			ru = "Ловкие пальцы",
-			["zh-cn"] = "长按自动交互",
+
+-- HUD -- ИНТЕРФЕЙС
+	["state_your_name"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "state_your_name",
+		}
+	},
+	["GlowCooldown"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "GlowCooldown",
+		}
+	},
+	["A la Mode"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "A La Mode",
+		}
+	},
+	["Lingering Death"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "Lingering Death",
 		}
 	},
 
+	["DivisionHUD"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "DivisionHUD",
+		}
+	},
 
--- HUD -- ИНТЕРФЕЙС
+	["DamageNumbers"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "DamageNumbers",
+		}
+	},
+
+	["CustomPlayerPanel"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "CustomPlayerPanel",
+		}
+	},
+
+	["CompanionKillfeed"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "CompanionKillfeed",
+		}
+	},
+
+	["ColorSelection"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "ColorSelection",
+		}
+	},
+
+	["CaptainKillFeed"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "CaptainKillFeed",
+		}
+	},
+
+	["loot_dopamine"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "loot_dopamine",
+		}
+	},
+
+	["AlternateGrenadeIcons"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "AlternateGrenadeIcons",
+		}
+	},
+	["BetterNameplate"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "BetterNameplate",
+		}
+	},
+	["Better Pet Targets"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "BetterPetTargets",
+		}
+	},
+	["DynamicCrosshair"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "DynamicCrosshair",
+		}
+	},
+	["EmperorsGuidance"] = {
+		category = "Controls",
+		localized_name = { -- 21.08.2026
+			en = "EmperorsGuidance",
+		}
+	},
+	["GiftShredder"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "GiftShredder",
+		}
+	},
+	["Let Me See My Scanner"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "Let Me See My Scanner",
+		}
+	},
+	["MinionKillfeed"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "MinionKillfeed",
+		}
+	},
+	["PlayerDeathfeed"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "PlayerDeathfeed",
+		}
+	},
+	["ProfilePictures"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "ProfilePictures",
+		}
+	},
+	["RecoveryMeters"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "RecoveryMeters",
+		}
+	},
+	["ServoSkullNametag"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "ServoSkullNametag",
+		}
+	},
+	["ShowCnJaKoGlyphsPlus"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "ShowCnJaKoGlyphsPlus",
+		}
+	},
+	["SpecialsTracker"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "SpecialsTracker",
+		}
+	},
+	["TeamAbilityCooldowns"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "TeamAbilityCooldowns",
+		}
+	},
+	["VoxChat"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "VoxChat",
+		}
+	},
+	["ability_timer"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "ability_timer",
+		}
+	},
+	["better_buff_management"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "better_buff_management",
+		}
+	},
+	["bot_hud_transparency"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "bot_hud_transparency",
+		}
+	},
+	["crosshair_hud"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "crosshair_hud",
+		}
+	},
+	["crosshair_remap"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "crosshair_remap",
+		}
+	},
+	["objective_tracker"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "objective_tracker",
+		}
+	},
+	["shorten_usernames"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "shorten_usernames",
+		}
+	},
+	["vt2_scoreboard"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "vt2_scoreboard",
+		}
+	},
+	["wound_customizer"] = {
+		category = "HUD",
+		localized_name = { -- 21.08.2026
+			en = "wound_customizer",
+		}
+	},
+
 	["barrels"] = {
 		category = "HUD",
 		localized_name = { -- 06.01.2026
@@ -260,14 +690,6 @@ return {
 		localized_name = { -- 06.01.2026
 			en = "Ping Indicator",
 			ru = "Индикатор пинга",
-		}
-	},
-	["ForTheEmperor"] = {
-		category = "HUD",
-		localized_name = { -- 06.01.2026
-			en = "For the Emperor!",
-			ru = "За императора!",
-			["zh-cn"] = "为了帝皇！",
 		}
 	},
 	["Healthbars"] = {
@@ -349,14 +771,6 @@ return {
 			["zh-tw"] = "重繪Boss血條",
 		}
 	},
-	["Remembrancer"] = {
-		category = "HUD",
-		localized_name = { -- 06.01.2026
-			en = "Remembrancer",
-			ru = "Метки времени в чате",
-			["zh-cn"] = "聊天消息时间戳",
-		}
-	},
 	["scoreboard"] = {
 		category = "HUD",
 		localized_name = { -- 06.01.2026
@@ -434,22 +848,11 @@ return {
 		}
 	},
 
-
 -- INDICATORS -- ИНДИКАТОРЫ
-	["crusher_attack_indicator"] = {
+	["enemies_improved"] = {
 		category = "Indicators",
-		localized_name = { -- 06.01.2026
-			en = "Crusher Cleave Indicator",
-			ru = "Индикатор атаки крушителя",
-			["zh-cn"] = "粉碎者横扫指示器",
-		}
-	},
-	["danger_zone"] = {
-		category = "Indicators",
-		localized_name = { -- 06.01.2026
-			en = "Danger Zone",
-			ru = "Опасная зона",
-			["zh-cn"] = "危险区域",
+		localized_name = { -- 21.08.2026
+			en = "enemies_improved",
 		}
 	},
 	["debuff_indicator"] = {
@@ -461,6 +864,74 @@ return {
 			["zh-tw"] = "Debuff效果顯示器",
 		}
 	},
+
+	["danger_zone"] = {
+		category = "Indicators",
+		localized_name = { -- 06.01.2026
+			en = "Danger Zone",
+			ru = "Опасная зона",
+			["zh-cn"] = "危险区域",
+		}
+	},
+
+	["crusher_attack_indicator"] = {
+		category = "Indicators",
+		localized_name = { -- 06.01.2026
+			en = "Crusher Cleave Indicator",
+			ru = "Индикатор атаки крушителя",
+			["zh-cn"] = "粉碎者横扫指示器",
+		}
+	},
+
+	["ping_duration_changer"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "ping_duration_changer",
+		}
+	},
+
+	["enemy_outlines"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "enemy_outlines",
+		}
+	},
+
+	["better_downed_indicators"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "better_downed_indicators",
+		}
+	},
+
+	["aggro_indicator"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "aggro_indicator",
+		}
+	},
+
+	["ServoSkullDistance"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "ServoSkullDistance",
+		}
+	},
+
+	["ServoSkullAlerts"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "ServoSkullAlerts",
+		}
+	},
+
+	["CustomEnemyTag"] = {
+		category = "Indicators",
+		localized_name = { -- 21.08.2026
+			en = "CustomEnemyTag",
+		}
+	},
+
 	["Hound Zero"] = {
 		category = "Indicators",
 		localized_name = { -- 06.01.2026
@@ -564,120 +1035,14 @@ return {
 		}
 	},
 
-
 -- INVENTORY -- ИНВЕНТАРЬ
-	["BetterLoadouts"] = {
+	["wkc"] = {
 		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Better Loadouts",
-			ru = "Улучшенные кнопки билдов",
-			["zh-cn"] = "更佳配装方案",
+		localized_name = { -- 21.08.2026
+			en = "wkc",
 		}
 	},
-	["DefaultToHighestBlessingTier"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Default To Highest Blessing Tier",
-			ru = "Благословения высшего уровня по умолчанию",
-			["zh-cn"] = "默认最高祝福等级",
-		}
-	},
-	["EmpowerUntilLimit"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Empower Until Limit",
-			ru = "Усиление до предела",
-			["zh-cn"] = "强化到顶",
-		}
-	},
-	["EquippedIconPlus"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Equipped Icon Plus",
-			ru = "Значок экипированного+",
-			["zh-cn"] = "已装备图标+",
-		}
-	},
-	["FilterSacrifice"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Filter Sacrifice",
-			ru = "Фильтрация жертвуемого оружия",
-			["zh-cn"] = "牺牲筛选器",
-		}
-	},
-	["GoToMastery"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Go to Mastery",
-			ru = "В Мастерство",
-			["zh-cn"] = "一键跳转专精",
-		}
-	},
-	["how_did_I_get_that"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "How Did I Get That?",
-			ru = "Как я это получил?",
-		}
-	},
-	["InventoryHider"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Inventory Hider",
-			ru = "Скрыватель интерфейса инвентаря",
-			["zh-cn"] = "隐藏库存界面",
-		}
-	},
-	["ItemBorderColor"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Item Border Color",
-			ru = "Цвет границы предмета",
-			["zh-cn"] = "物品边框颜色",
-		}
-	},
-	["ItemSorting"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Item Sorting",
-			ru = "Сортировка предметов",
-			["zh-cn"] = "物品排序",
-		}
-	},
-	["LoadoutNames"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Loadout Names",
-			ru = "Названия билдов",
-			["zh-cn"] = "配装命名",
-		}
-	},
-	["MarkPreview"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Mark Preview",
-			ru = "Предосмотр моделей оружия",
-			["zh-cn"] = "型号预览",
-		}
-	},
-	["MyFavorites"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "My Favorites",
-			ru = "Моё избранное",
-			["zh-cn"] = "我的收藏",
-		}
-	},
-	["name_it"] = {
-		category = "Inventory",
-		localized_name = { -- 06.01.2026
-			en = "Name It",
-			ru = "Назови его",
-			["zh-cn"] = "物品自定义名称",
-			["zh-tw"] = "物品自定義名稱",
-		}
-	},
+
 	["QuickLookCard"] = {
 		category = "Inventory",
 		localized_name = { -- 06.01.2026
@@ -687,6 +1052,175 @@ return {
 			["zh-tw"] = "快速資訊卡",
 		}
 	},
+
+	["name_it"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Name It",
+			ru = "Назови его",
+			["zh-cn"] = "物品自定义名称",
+			["zh-tw"] = "物品自定義名稱",
+		}
+	},
+
+	["MyFavorites"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "My Favorites",
+			ru = "Моё избранное",
+			["zh-cn"] = "我的收藏",
+		}
+	},
+
+	["MarkPreview"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Mark Preview",
+			ru = "Предосмотр моделей оружия",
+			["zh-cn"] = "型号预览",
+		}
+	},
+
+	["LoadoutNames"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Loadout Names",
+			ru = "Названия билдов",
+			["zh-cn"] = "配装命名",
+		}
+	},
+
+	["ItemSorting"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Item Sorting",
+			ru = "Сортировка предметов",
+			["zh-cn"] = "物品排序",
+		}
+	},
+
+	["ItemBorderColor"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Item Border Color",
+			ru = "Цвет границы предмета",
+			["zh-cn"] = "物品边框颜色",
+		}
+	},
+
+	["InventoryHider"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Inventory Hider",
+			ru = "Скрыватель интерфейса инвентаря",
+			["zh-cn"] = "隐藏库存界面",
+		}
+	},
+
+	["how_did_I_get_that"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "How Did I Get That?",
+			ru = "Как я это получил?",
+		}
+	},
+
+	["GoToMastery"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Go to Mastery",
+			ru = "В Мастерство",
+			["zh-cn"] = "一键跳转专精",
+		}
+	},
+
+	["FilterSacrifice"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Filter Sacrifice",
+			ru = "Фильтрация жертвуемого оружия",
+			["zh-cn"] = "牺牲筛选器",
+		}
+	},
+
+	["EquippedIconPlus"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Equipped Icon Plus",
+			ru = "Значок экипированного+",
+			["zh-cn"] = "已装备图标+",
+		}
+	},
+
+	["EmpowerUntilLimit"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Empower Until Limit",
+			ru = "Усиление до предела",
+			["zh-cn"] = "强化到顶",
+		}
+	},
+
+	["DefaultToHighestBlessingTier"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Default To Highest Blessing Tier",
+			ru = "Благословения высшего уровня по умолчанию",
+			["zh-cn"] = "默认最高祝福等级",
+		}
+	},
+
+	["BetterLoadouts"] = {
+		category = "Inventory",
+		localized_name = { -- 06.01.2026
+			en = "Better Loadouts",
+			ru = "Улучшенные кнопки билдов",
+			["zh-cn"] = "更佳配装方案",
+		}
+	},
+
+	["WeaponFilter"] = {
+		category = "Inventory",
+		localized_name = { -- 21.08.2026
+			en = "WeaponFilter",
+		}
+	},
+
+	["AccurateCurioNames"] = {
+		category = "Inventory",
+		localized_name = { -- 21.08.2026
+			en = "AccurateCurioNames",
+		}
+	},
+
+	["BetterInventory"] = {
+		category = "Inventory",
+		localized_name = { -- 21.08.2026
+			en = "BetterInventory",
+		}
+	},
+
+	["GodRolls"] = {
+		category = "Inventory",
+		localized_name = { -- 21.08.2026
+			en = "GodRolls",
+		}
+	},
+
+	["MaxStatMark"] = {
+		category = "Inventory",
+		localized_name = { -- 21.08.2026
+			en = "MaxStatMark",
+		}
+	},
+
+	["MyWeaponStances"] = {
+		category = "Inventory",
+		localized_name = { -- 21.08.2026
+			en = "MyWeaponStances",
+		}
+	},
+
 	["red_weapons_at_home"] = {
 		category = "Inventory",
 		localized_name = { -- 06.01.2026
@@ -713,22 +1247,248 @@ return {
 		}
 	},
 
-
 -- MENU -- МЕНЮ
+	["xsSplained"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Game Mechanics xsSplained",
+			ru = "Объяснение игровых механик",
+			["zh-cn"] = "游戏机制详解",
+		}
+	},
+
+	["weapon_cosmetics_view_improved"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Weapon Cosmetics View Improved",
+			ru = "Улучшенный осмотр косметических элементов оружия",
+			["zh-cn"] = "武器装饰品视图改进",
+		}
+	},
+
+	["ShowEquippedInLobby"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Show Equipped in Lobby",
+			ru = "Покажи выбранное оружие в лобби",
+			["zh-cn"] = "在准备界面显示装备",
+		}
+	},
+
+	["ReorderChars"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Reorder Characters",
+			ru = "Перестановка персонажей",
+		}
+	},
+
+	["RememberServerLocation"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Remember Server Location",
+			ru = "Запомни расположение сервера",
+			["zh-cn"] = "记住服务器位置",
+			["zh-tw"] = "記住伺服器位置",
+		}
+	},
+
+	["RememberDifficulty"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Remember Difficulty",
+			ru = "Запомни сложность",
+			["zh-tw"] = "記住最後的難度",
+		}
+	},
+
+	["REALPRICES"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "REAL PRICES",
+			ru = "РЕАЛЬНЫЕ ЦЕНЫ",
+			["zh-cn"] = "真实价格",
+		}
+	},
+
+	["psych_ward"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Psych Ward",
+			ru = "Психушка",
+			["zh-cn"] = "快捷访问",
+			["zh-tw"] = "靈能室",
+			ko = "바로가기",
+		}
+	},
+
+	["OpenPlayerProfile"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Open Player Profile",
+			ru = "Открыть профиль игрока",
+			["zh-cn"] = "打开玩家个人资料",
+		}
+	},
+
+	["Nothing New"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Nothing New",
+			ru = "Ничего нового",
+			["zh-cn"] = "没有新物品",
+		}
+	},
+
+	["NoNews"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "No News",
+			ru = "Не нужно новостей",
+			["zh-cn"] = "隐藏新闻栏",
+		}
+	},
+
+	["MoreGraphicsOptions"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "More Graphics Options",
+			ru = "Больше настроек графики",
+		}
+	},
+
+	["modular_menu_buttons"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Modular Menu Buttons",
+			ru = "Модульные кнопки меню",
+			["zh-cn"] = "模块化菜单按钮",
+		}
+	},
+
+	["MissionGrid"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Mission Grid",
+			ru = "Миссии сеткой",
+			["zh-cn"] = "任务网格",
+		}
+	},
+
+	["MenuUIHider"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Menu UI Hider",
+			ru = "Скрыватель интерфейса меню",
+			["zh-cn"] = "隐藏所有界面",
+		}
+	},
+
+	["LogMeIn"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Log Me In",
+			ru = "Впусти меня",
+			["zh-cn"] = "快捷登录",
+		}
+	},
+
+	["loadinglore"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Loading Lore",
+			ru = "Лор при загрузке",
+		}
+	},
+
+	["InspectFromSocial"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Inspect from Social",
+			ru = "Осмотр игроков в Социальном меню",
+			["zh-cn"] = "社交界面查看装备",
+		}
+	},
+
+	["InspectFromPartyFinder"] = {
+		category = "Menu",
+		localized_name = { -- 06.01.2026
+			en = "Inspect from Party Finder",
+			ru = "Осмотр игроков в Поиске группы",
+			["zh-cn"] = "寻找队伍界面查看装备",
+			["zh-tw"] = "從隊伍搜尋器查看裝備",
+		}
+	},
+
+	["improved_loading_screens"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "improved_loading_screens",
+		}
+	},
+
+	["hub_shortcuts"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "hub_shortcuts",
+		}
+	},
+
+	["WhosNotReady"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "WhosNotReady",
+		}
+	},
+
+	["TransparentModSettings"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "TransparentModSettings",
+		}
+	},
+
+	["SortModMenu"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "SortModMenu",
+		}
+	},
+
+	["LoadingBar"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "LoadingBar",
+		}
+	},
+
+	["LoadScreenDecorationRemover"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "LoadScreenDecorationRemover",
+		}
+	},
+
+	["FasterPortraits"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "FasterPortraits",
+		}
+	},
+
+	["Click2Play"] = {
+		category = "Menu",
+		localized_name = { -- 21.08.2026
+			en = "Click2Play",
+		}
+	},
+
 	["BetterMelk"] = {
 		category = "Menu",
 		localized_name = { -- 06.01.2026
 			en = "Character Screen Contracts",
 			ru = "Индикатор контрактов",
 			["zh-cn"] = "梅尔克协议优化",
-		}
-	},
-	["BornReady"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "BornReady",
-			ru = "Рождён готовым",
-			["zh-cn"] = "自动准备",
 		}
 	},
 	["cancel_loading"] = {
@@ -796,220 +1556,8 @@ return {
 			es = "{#color(192, 255, 26)} Descripciones Mejoradas{#reset()}",
 		}
 	},
-	["ImprovedHavocTags"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = " Improved Havoc Tags",
-			de = " Verbesserte Verwüstung-Markierungen",
-			fr = " Étiquettes Dévastation améliorées",
-			it = " Etichette Scompiglio Migliorate",
-			ko = " 개선된 파괴 태그",
-			es = " Etiquetas de Pandemonio mejoradas",
-			["zh-cn"] = " 更好的浩劫词条显示",
-			["zh-tw"] = " 改善浩劫詞條顯示方式",
-			ru = " Улучшенные метки Хавока",
-			ja = " 改良されたハヴォックタグ",
-			pl = " Ulepszone oznaczenia Spustoszenie",
-			["pt-br"] = " Marcadores de Devastação Melhorados",
-		}
-	},
-	["InspectFromPartyFinder"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Inspect from Party Finder",
-			ru = "Осмотр игроков в Поиске группы",
-			["zh-cn"] = "寻找队伍界面查看装备",
-			["zh-tw"] = "從隊伍搜尋器查看裝備",
-		}
-	},
-	["InspectFromSocial"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Inspect from Social",
-			ru = "Осмотр игроков в Социальном меню",
-			["zh-cn"] = "社交界面查看装备",
-		}
-	},
-	["loadinglore"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Loading Lore",
-			ru = "Лор при загрузке",
-		}
-	},
-	["LogMeIn"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Log Me In",
-			ru = "Впусти меня",
-			["zh-cn"] = "快捷登录",
-		}
-	},
-	["MenuUIHider"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Menu UI Hider",
-			ru = "Скрыватель интерфейса меню",
-			["zh-cn"] = "隐藏所有界面",
-		}
-	},
-	["MissionGrid"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Mission Grid",
-			ru = "Миссии сеткой",
-			["zh-cn"] = "任务网格",
-		}
-	},
-	["modular_menu_buttons"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Modular Menu Buttons",
-			ru = "Модульные кнопки меню",
-			["zh-cn"] = "模块化菜单按钮",
-		}
-	},
-	["MoreGraphicsOptions"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "More Graphics Options",
-			ru = "Больше настроек графики",
-		}
-	},
-	["NoNews"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "No News",
-			ru = "Не нужно новостей",
-			["zh-cn"] = "隐藏新闻栏",
-		}
-	},
-	["Nothing New"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Nothing New",
-			ru = "Ничего нового",
-			["zh-cn"] = "没有新物品",
-		}
-	},
-	["OpenPlayerProfile"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Open Player Profile",
-			ru = "Открыть профиль игрока",
-			["zh-cn"] = "打开玩家个人资料",
-		}
-	},
-	["psych_ward"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Psych Ward",
-			ru = "Психушка",
-			["zh-cn"] = "快捷访问",
-			["zh-tw"] = "靈能室",
-			ko = "바로가기",
-		}
-	},
-	["REALPRICES"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "REAL PRICES",
-			ru = "РЕАЛЬНЫЕ ЦЕНЫ",
-			["zh-cn"] = "真实价格",
-		}
-	},
-	["RememberDifficulty"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Remember Difficulty",
-			ru = "Запомни сложность",
-			["zh-tw"] = "記住最後的難度",
-		}
-	},
-	["RememberServerLocation"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Remember Server Location",
-			ru = "Запомни расположение сервера",
-			["zh-cn"] = "记住服务器位置",
-			["zh-tw"] = "記住伺服器位置",
-		}
-	},
-	["ReorderChars"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Reorder Characters",
-			ru = "Перестановка персонажей",
-		}
-	},
-	["ShowEquippedInLobby"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Show Equipped in Lobby",
-			ru = "Покажи выбранное оружие в лобби",
-			["zh-cn"] = "在准备界面显示装备",
-		}
-	},
-	["weapon_cosmetics_view_improved"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Weapon Cosmetics View Improved",
-			ru = "Улучшенный осмотр косметических элементов оружия",
-			["zh-cn"] = "武器装饰品视图改进",
-		}
-	},
-	["xsSplained"] = {
-		category = "Menu",
-		localized_name = { -- 06.01.2026
-			en = "Game Mechanics xsSplained",
-			ru = "Объяснение игровых механик",
-			["zh-cn"] = "游戏机制详解",
-		}
-	},
-
 
 -- MISSIONS -- МИССИИ
-	["MissionBrief"] = {
-		category = "Missions",
-		localized_name = { -- 06.01.2026
-			en = "Mission Briefing",
-			ru = "Брифинг миссии",
-			["zh-cn"] = "任务简报",
-		}
-	},
-	["valkyrie"] = {
-		category = "Missions",
-		localized_name = { -- 06.01.2026
-			en = "Valkyrie Blitz Ingress",
-			ru = "Быстрая выгрузка из Валькирии",
-		}
-	},
-	["quickest_play"] = {
-		category = "Missions",
-		localized_name = { -- 06.01.2026
-			en = "Quickest Play",
-			ru = "Быстрейшая игра",
-			["zh-cn"] = "快速游戏",
-		}
-	},
-	["ManyMoreTry"] = {
-		category = "Missions",
-		localized_name = { -- 06.01.2026
-			en = "Many More Try",
-			ru = "Ещё больше попыток",
-			["zh-cn"] = "再来很多局",
-			["zh-tw"] = "繼續再來更多局",
-		}
-	},
-	["SoloPlay"] = {
-		category = "Missions",
-		localized_name = { -- 06.01.2026
-			en = "Solo Play",
-			ru = "Игра в соло",
-			["zh-cn"] = "单人游戏",
-			["zh-tw"] = "單人遊戲",
-		}
-	},
 	["TrueSoloQoL"] = {
 		category = "Missions",
 		localized_name = { -- 06.01.2026
@@ -1019,8 +1567,104 @@ return {
 		}
 	},
 
+	["SoloPlay"] = {
+		category = "Missions",
+		localized_name = { -- 06.01.2026
+			en = "Solo Play",
+			ru = "Игра в соло",
+			["zh-cn"] = "单人游戏",
+			["zh-tw"] = "單人遊戲",
+		}
+	},
+
+	["ManyMoreTry"] = {
+		category = "Missions",
+		localized_name = { -- 06.01.2026
+			en = "Many More Try",
+			ru = "Ещё больше попыток",
+			["zh-cn"] = "再来很多局",
+			["zh-tw"] = "繼續再來更多局",
+		}
+	},
+
+	["quickest_play"] = {
+		category = "Missions",
+		localized_name = { -- 06.01.2026
+			en = "Quickest Play",
+			ru = "Быстрейшая игра",
+			["zh-cn"] = "快速游戏",
+		}
+	},
+
+	["valkyrie"] = {
+		category = "Missions",
+		localized_name = { -- 06.01.2026
+			en = "Valkyrie Blitz Ingress",
+			ru = "Быстрая выгрузка из Валькирии",
+		}
+	},
+
+	["MissionBrief"] = {
+		category = "Missions",
+		localized_name = { -- 06.01.2026
+			en = "Mission Briefing",
+			ru = "Брифинг миссии",
+			["zh-cn"] = "任务简报",
+		}
+	},
+
+	["havoc_headcount"] = {
+		category = "Missions",
+		localized_name = { -- 21.08.2026
+			en = "havoc_headcount",
+		}
+	},
+
+	["Many Mission Terminal"] = {
+		category = "Missions",
+		localized_name = { -- 21.08.2026
+			en = "Many Mission Terminal",
+		}
+	},
+
+	["LetMePlayHavoc"] = {
+		category = "Missions",
+		localized_name = { -- 21.08.2026
+			en = "LetMePlayHavoc",
+		}
+	},
+
+	["HavocQuickplay"] = {
+		category = "Missions",
+		localized_name = { -- 21.08.2026
+			en = "HavocQuickplay",
+		}
+	},
+
+	["Havoc Auspex"] = {
+		category = "Missions",
+		localized_name = { -- 21.08.2026
+			en = "Havoc Auspex",
+		}
+	},
 
 -- PENANCES -- ИСКУПЛЕНИЯ
+	["show-current-penance-stat"] = {
+		category = "Penances",
+		localized_name = { -- 06.01.2026
+			en = "Show current penance stats",
+			ru = "Истинные значения искуплений",
+		}
+	},
+
+	["claim_all_penances"] = {
+		category = "Penances",
+		localized_name = { -- 06.01.2026
+			en = "Claim All Penances",
+			ru = "Забери все награды Искуплений",
+		}
+	},
+
 	["Archivum Messelina"] = {
 		category = "Penances",
 		localized_name = { -- 06.01.2026
@@ -1030,20 +1674,7 @@ return {
 			["zh-tw"] = "苦修篩選 - 梅塞利納檔案館",
 		}
 	},
-	["claim_all_penances"] = {
-		category = "Penances",
-		localized_name = { -- 06.01.2026
-			en = "Claim All Penances",
-			ru = "Забери все награды Искуплений",
-		}
-	},
-	["show-current-penance-stat"] = {
-		category = "Penances",
-		localized_name = { -- 06.01.2026
-			en = "Show current penance stats",
-			ru = "Истинные значения искуплений",
-		}
-	},
+
 	["penances_improved"] = {
 		category = "Penances",
 		localized_name = { -- 06.01.2026
@@ -1061,8 +1692,33 @@ return {
 		}
 	},
 
-
 -- QOL -- УДОВСТВА
+	["quick_level_mastery"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "quick_level_mastery",
+		}
+	},
+	["Decode_Helper"] = {
+		category = "QoL",
+		localized_name = { -- 06.01.2026
+			en = "Decode Helper",
+			ru = "Помощник декодирования",
+		}
+	},
+	["MatchingMinigameSolver"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "MatchingMinigameSolver",
+		}
+	},
+	["Muzzle"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "Muzzle",
+		}
+	},
+
 	["zServo_Lexmechanicus"] = {
 		category = "QoL",
 		localized_name = { -- 06.01.2026
@@ -1081,32 +1737,100 @@ return {
 		}
 	},
 
+	["strip_chat_colors"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "strip_chat_colors",
+		}
+	},
+
+	["afk"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "afk",
+		}
+	},
+
+	["SoloMourningstar"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "SoloMourningstar",
+		}
+	},
+
+	["SkipRewards"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "SkipRewards",
+		}
+	},
+
+	["Servo Mortis"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "Servo Mortis",
+		}
+	},
+
+	["QuickLeave"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "QuickLeave",
+		}
+	},
+
+	["ForTheEmperor"] = {
+		category = "QoL",
+		localized_name = { -- 06.01.2026
+			en = "For the Emperor!",
+			ru = "За императора!",
+			["zh-cn"] = "为了帝皇！",
+		}
+	},
+
+	["ritual_timer"] = {
+		category = "QoL",
+		localized_name = { -- 21.08.2026
+			en = "ritual_timer",
+		}
+	},
+
+	["BornReady"] = {
+		category = "QoL",
+		localized_name = { -- 06.01.2026
+			en = "BornReady",
+			ru = "Рождён готовым",
+			["zh-cn"] = "自动准备",
+		}
+	},
+	["ImprovedHavocTags"] = {
+		category = "QoL",
+		localized_name = { -- 06.01.2026
+			en = " Improved Havoc Tags",
+			de = " Verbesserte Verwüstung-Markierungen",
+			fr = " Étiquettes Dévastation améliorées",
+			it = " Etichette Scompiglio Migliorate",
+			ko = " 개선된 파괴 태그",
+			es = " Etiquetas de Pandemonio mejoradas",
+			["zh-cn"] = " 更好的浩劫词条显示",
+			["zh-tw"] = " 改善浩劫詞條顯示方式",
+			ru = " Улучшенные метки Хавока",
+			ja = " 改良されたハヴォックタグ",
+			pl = " Ulepszone oznaczenia Spustoszenie",
+			["pt-br"] = " Marcadores de Devastação Melhorados",
+		}
+	},
+
+	["Remembrancer"] = {
+		category = "QoL",
+		localized_name = { -- 06.01.2026
+			en = "Remembrancer",
+			ru = "Метки времени в чате",
+			["zh-cn"] = "聊天消息时间戳",
+		}
+	},
 
 -- TALENTS -- ТАЛАНТЫ
-	["ShareTalents"] = {
-		category = "Talents",
-		localized_name = { -- 06.01.2026
-			en = "Share Builds",
-			ru = "Делись билдами",
-			["zh-cn"] = "天赋加点分享",
-		}
-	},
-	["TalentRefundBelow"] = {
-		category = "Talents",
-		localized_name = { -- 06.01.2026
-			en = "Talent Tree UX",
-			ru = "Удобства для управления талантами",
-			["zh-cn"] = "天赋树 UX 优化",
-		}
-	},
-	["smaller_talent_tree"] = {
-		category = "Talents",
-		localized_name = { -- 06.01.2026
-			en = "Smaller Talent Trees",
-			ru = "Уменьшаемые деревья талантов",
-			["zh-cn"] = "小型天赋树",
-		}
-	},
 	["MergedTalentStats"] = {
 		category = "Talents",
 		localized_name = { -- 06.01.2026
@@ -1116,8 +1840,83 @@ return {
 		}
 	},
 
+	["smaller_talent_tree"] = {
+		category = "Talents",
+		localized_name = { -- 06.01.2026
+			en = "Smaller Talent Trees",
+			ru = "Уменьшаемые деревья талантов",
+			["zh-cn"] = "小型天赋树",
+		}
+	},
+
+	["TalentRefundBelow"] = {
+		category = "Talents",
+		localized_name = { -- 06.01.2026
+			en = "Talent Tree UX",
+			ru = "Удобства для управления талантами",
+			["zh-cn"] = "天赋树 UX 优化",
+		}
+	},
+
+	["ShareTalents"] = {
+		category = "Talents",
+		localized_name = { -- 06.01.2026
+			en = "Share Builds",
+			ru = "Делись билдами",
+			["zh-cn"] = "天赋加点分享",
+		}
+	},
+
+	["resized_talents"] = {
+		category = "Talents",
+		localized_name = { -- 21.08.2026
+			en = "resized_talents",
+		}
+	},
 
 -- TESTING -- ТЕСТ
+	["DatatideTestSpawner"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "DatatideTestSpawner",
+		}
+	},
+
+	["CustomCharacterBots"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "CustomCharacterBots",
+		}
+	},
+
+	["BetterBots"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "BetterBots",
+		}
+	},
+
+	["ArtificialLatency"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "ArtificialLatency",
+		}
+	},
+
+	["bot_spawner"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "bot_spawner",
+		}
+	},
+
+	["controlled_chaos"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "controlled_chaos",
+		}
+	},
+
 	["creature_spawner"] = {
 		category = "Testing",
 		localized_name = { -- 06.01.2026
@@ -1126,6 +1925,7 @@ return {
 			["zh-cn"] = "生物生成",
 		}
 	},
+
 	["hitbox_debug_draw"] = {
 		category = "Testing",
 		localized_name = { -- 06.01.2026
@@ -1133,6 +1933,7 @@ return {
 			ru = "Отрисовка хитбоксов для отладки",
 		}
 	},
+
 	["loadout_config"] = {
 		category = "Testing",
 		localized_name = { -- 06.01.2026
@@ -1141,6 +1942,7 @@ return {
 			["zh-cn"] = "自定义配装",
 		}
 	},
+
 	["pickup_spawner"] = {
 		category = "Testing",
 		localized_name = { -- 06.01.2026
@@ -1148,6 +1950,7 @@ return {
 			ru = "Спавнер поднимаемых предметов",
 		}
 	},
+
 	["WhatTheLocalization"] = {
 		category = "Testing",
 		localized_name = { -- 06.01.2026
@@ -1158,19 +1961,16 @@ return {
 		}
 	},
 
+	["testing_utilities"] = {
+		category = "Testing",
+		localized_name = { -- 21.08.2026
+			en = "testing_utilities",
+		}
+	},
 
 	-- TWEAKS -- ТВИКИ
 
-
 	-- VISUALS -- ВИЗУАЛ
-	["BetterFireGrenade"] = {
-		category = "Visuals",
-		localized_name = { -- 06.01.2026
-			en = "Zealot Fire Particle Swap",
-			ru = "Замена частиц огня гранат Изувера",
-			["zh-cn"] = "狂信徒燃烧弹特效替换",
-		}
-	},
 	["camera_freeflight"] = {
 		category = "Visuals",
 		localized_name = { -- 06.01.2026
@@ -1179,6 +1979,107 @@ return {
 			["zh-cn"] = "自由飞行视角",
 		}
 	},
+
+	["BetterFireGrenade"] = {
+		category = "Visuals",
+		localized_name = { -- 06.01.2026
+			en = "Zealot Fire Particle Swap",
+			ru = "Замена частиц огня гранат Изувера",
+			["zh-cn"] = "狂信徒燃烧弹特效替换",
+		}
+	},
+
+	["vfx_swapper"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "vfx_swapper",
+		}
+	},
+
+	["transonic_stance_colors"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "transonic_stance_colors",
+		}
+	},
+
+	["i_wanna_see"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "i_wanna_see",
+		}
+	},
+
+	["emperors_lantern"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "emperors_lantern",
+		}
+	},
+
+	["PauseVision"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "PauseVision",
+		}
+	},
+
+	["LookAround"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "LookAround",
+		}
+	},
+
+	["LessDoT"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "LessDoT",
+		}
+	},
+
+	["Lantern of the Omnissiah"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "Lantern of the Omnissiah",
+		}
+	},
+
+	["HolyLight"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "HolyLight",
+		}
+	},
+
+	["ForTheBloodGod"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "ForTheBloodGod",
+		}
+	},
+
+	["FXlimiter"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "FXlimiter",
+		}
+	},
+
+	["CustomFlames"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "CustomFlames",
+		}
+	},
+
+	["ALWAYSBLOODYWEAPONS"] = {
+		category = "Visuals",
+		localized_name = { -- 21.08.2026
+			en = "ALWAYSBLOODYWEAPONS",
+		}
+	},
+
 	["CleanForceBlocking"] = {
 		category = "Visuals",
 		localized_name = { -- 06.01.2026
@@ -1187,6 +2088,7 @@ return {
 			["zh-cn"] = "移除力场剑格挡特效",
 		}
 	},
+
 	["clear_smoke"] = {
 		category = "Visuals",
 		localized_name = { -- 06.01.2026
@@ -1194,6 +2096,7 @@ return {
 			ru = "Прозрачный дым",
 		}
 	},
+
 	["ConstantFov"] = {
 		category = "Visuals",
 		localized_name = { -- 06.01.2026
@@ -1202,6 +2105,7 @@ return {
 			ru = "Постоянное поле зрения(FoV)",
 		}
 	},
+
 	["DisableScreenEffects"] = {
 		category = "Visuals",
 		localized_name = { -- 06.01.2026
@@ -1210,6 +2114,7 @@ return {
 			["zh-cn"] = "禁用屏幕特效",
 		}
 	},
+
 	["GetOutOfTheWay"] = {
 		category = "Visuals",
 		localized_name = { -- 06.01.2026
@@ -1242,5 +2147,5 @@ return {
 			en = "Veil Shield",
 			ru = "Полупрозрачный щит",
 		}
-	},
+	}
 }
